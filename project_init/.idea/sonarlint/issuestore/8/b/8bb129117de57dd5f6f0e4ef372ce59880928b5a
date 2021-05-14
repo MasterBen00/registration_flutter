@@ -1,0 +1,23 @@
+
+P
+java:S1854^":Remove this useless assignment to local variable "result".(¸€ØŸ
+E
+java:S6212C"/Declare this local variable with "var" instead.(Ç­‚û
+J
+java:S6212M"/Declare this local variable with "var" instead.(£æÂºıÿÿÿÿ
+J
+java:S6212["/Declare this local variable with "var" instead.(ï–ÊËûÿÿÿÿ
+E
+java:S6212^"/Declare this local variable with "var" instead.(¸€ØŸ
+E
+java:S6212f"/Declare this local variable with "var" instead.(»ãÿ»
+J
+java:S6212v"/Declare this local variable with "var" instead.(¦¶‡âüÿÿÿÿ
+Q
+java:S6212}"/Declare this local variable with "var" instead.(ï–ÊËûÿÿÿÿ8Ò‡¯¾•/
+R
+java:S6212‹"/Declare this local variable with "var" instead.(°‹ˆàûÿÿÿÿ8÷€²¾•/
+M
+java:S6212"/Declare this local variable with "var" instead.(Á€µÒ8¢çµ¾•/
+A
+java:S1481^"+Remove this unused "result" local variable.(¸€ØŸ
